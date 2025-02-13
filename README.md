@@ -1,4 +1,11 @@
-# ------------ CRIAÇÃO DO APLICATIVO MOBILE -------------
+# --------- LAYOUT DA TELA DE LOGIN ---------
+## ------------ FACEBOOK -------------
+
+
+![Logo do Facebook](./assets/facebook.png)
+
+
+# -------- CRIAÇÃO DO APLICATIVO MOBILE ---------
 
 ## Instalar o Expo CLI
 
